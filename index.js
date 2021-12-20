@@ -20,6 +20,7 @@ async function printReleases() {
         getLatestRelease('apisuite-billing-extension-ui'),
         getLatestRelease('apisuite-marketplace-extension'),
         getLatestRelease('apisuite-marketplace-extension-ui'),
+        getLatestRelease('apisuite-cloud-extension'),
         getLatestRelease('apisuite-cloud-extension-ui'),
     ])
 
