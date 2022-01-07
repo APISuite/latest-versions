@@ -1,3 +1,4 @@
+require('dotenv').config()
 const { Octokit } = require('@octokit/core')
 let octokit
 
